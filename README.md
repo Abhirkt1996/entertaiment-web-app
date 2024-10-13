@@ -21,11 +21,11 @@ The Entertainment App is a platform where you can find the latest movies and TV 
 
 ## Deployments
 
-- The full-stack app is deployed on Netlify:  
-  
+- The full-stack app is deployed on Vercel:  
+  https://frontend-entertainment-app.vercel.app/
 
 - Backend is deployed on Render:  
-  
+  https://entertainment-backend-1.onrender.com/
 
 ## How to Start
 
@@ -64,5 +64,20 @@ Here is a brief description of the Entertainment App:
 - **Authentication Redirect**: If you try to bookmark a movie without being authenticated, you will be redirected to the login page.
  
 - **Google OAuth**: Log in with your Google account.
+
+- ## Contributing
+
+Contributions are welcome! Please follow these steps to contribute:
+
+1. Fork the repository.
+2. Create a new branch for your feature (`git checkout -b feature/AmazingFeature`).
+3. Commit your changes (`git commit -m 'Add some AmazingFeature'`).
+4. Push to the branch (`git push origin feature/AmazingFeature`).
+5. Open a Pull Request.
+
+
+##
+<h4 align="center">Made with ❤️ from Abhishek </h4>
+<h4 align="center">Thank You</h4>
 
 
