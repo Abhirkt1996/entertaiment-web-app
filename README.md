@@ -6,7 +6,7 @@ The Entertainment App is a platform where you can find the latest movies and TV 
 
 - Website link: https://frontend-entertainment-app.vercel.app/
 - GitHub repo link: https://github.com/Abhirkt1996/entertaiment-web-app
-- Backend link:[Render](https://entertainment-backend-1.onrender.com) 
+- Backend link: [Render](https://entertainment-backend-1.onrender.com) 
 
 ## Tech Stack Used
 
